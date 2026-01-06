@@ -2,8 +2,6 @@
 
 A comprehensive collection of practical labs and an applied project in deep learning, covering fundamental and advanced deep learning techniques with practical application in medical image processing.
 
-**Language:** [English (EN)](#) | [Français (FR)](README.md)
-
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
@@ -29,7 +27,6 @@ This repository brings together a progressive pedagogical approach to deep learn
 - ✅ Medical image denoising application
 - ✅ Practical and executable examples
 - ✅ Well-commented and structured code
-- ✅ Multi-language support (EN/FR)
 - ✅ Production-ready deployment
 
 ## 📁 Project Structure
