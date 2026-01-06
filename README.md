@@ -83,7 +83,7 @@ This repository brings together a progressive pedagogical approach to deep learn
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MohemedAmine/DL_Labs.git
 cd dl
 ```
 
